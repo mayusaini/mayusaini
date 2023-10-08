@@ -1,6 +1,7 @@
 Hi, I'm Mayu Saini.
 <br>
-About Me 😎
+<br>
+<u>About Me 😎</u>
 <br>
 🎓 I am a Postgradute Student, pursuing Master of Computer Application at LBSIMDS.<br>
 👀 I’m interested in Open Source, Web Development And Programming.<br>
@@ -9,7 +10,7 @@ About Me 😎
 💡 I am currently focusing on Data Structures and Algorithm in C++.<br>
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <br>
-Tech Stack 🥞<br><br>
+<u>Tech Stack 🥞</u><br><br>
 HTML5<br> CSS3<br> JavaScript<br> Bootstrap<br> Github <br>PYTHON (django)  
 
 
