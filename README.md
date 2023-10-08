@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi, I'm Mayu Saini.
 
-<!--
-**mayusaini/mayusaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me 😎
+🎓 I am a Postgradute Student, pursuing Master of Computer Application at MAYU.
+👀 I’m interested in Open Source, Web Development And Programming.
+💬 I would love to talk about internship opportunities.
+💞️ I’m looking to collaborate on any open source platform.
+💡 I am currently focusing on Data Structures and Algorithm in C++.
+📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+📫 You can connect with me via this link.
+Tech Stack 🥞
+HTML5 CSS3 JavaScript Bootstrap Github Visual Studio Code PYTHON (django)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
