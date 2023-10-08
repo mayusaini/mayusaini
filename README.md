@@ -10,6 +10,6 @@ About Me 😎
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <br>
 Tech Stack 🥞<br>
-HTML5 CSS3 JavaScript Bootstrap Github Visual Studio Code PYTHON (django)  
+HTML5<br> CSS3<br> JavaScript<br> Bootstrap<br> Github <br>PYTHON (django)  
 
 
