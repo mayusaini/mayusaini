@@ -4,7 +4,7 @@ Hi, I'm Mayu Saini.
 <u>About Me 😎</u>
 <br>
 <br>
-🎓 I am a Postgradute Student, pursuing Master of Computer Application at LBSIMDS.<br>
+🎓 I am a Postgradute Student, pursuing Master of Computer Application at AKTU.<br>
 👀 I’m interested in Open Source, Web Development And Programming.<br>
 💬 I would love to talk about internship opportunities.<br>
 💞️ I’m looking to collaborate on any open source platform.<br>
@@ -12,6 +12,6 @@ Hi, I'm Mayu Saini.
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <br>
 <u>Tech Stack 🥞</u><br><br>
-HTML5<br> CSS3<br> JavaScript<br> Bootstrap<br> Github <br>PYTHON (django)  
+HTML5<br> CSS3<br> JavaScript<br> Bootstrap<br> Github <br>PYTHON (django) 
 
 
