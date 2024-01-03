@@ -12,6 +12,5 @@ Hi, I'm Mayu Saini.
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <br>
 <u>Tech Stack 🥞</u><br><br>
-HTML5<br> CSS3<br> JavaScript<br> Bootstrap<br> Github <br>PYTHON (django) 
-
+HTML5<br> CSS3<br> JavaScript<br> Bootstrap<br> Github 
 
